@@ -1,4 +1,4 @@
-Bank Application
+    Bank Application
 
 Scenario: You are a backend developer and need to create an application to handle new customer bank account requests.
 

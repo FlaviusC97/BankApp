@@ -11,7 +11,7 @@ Your application should do the following:
 -Both savings and checking accounts share the following properties: deposit(), withdraw(), transfer(), showinfo()
 
 -Savings Account holders are given Safety Deposit Box, identified by a 3-digit number and accessed with a 4-digit code
-
+   
 -Checking Account holders are assigned a Debit Card with a 12-digit number and 4-digit PIN.
 
 -Both Accounts will use an interface that determines the base interest rate.
